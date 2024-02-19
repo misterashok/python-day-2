@@ -1,0 +1,26 @@
+1) What is python ?
+A) * python is a high-level, interpreted general purpose programming language
+   * its design philosophy emphasizes code readability with the use of significiant indentation
+   * python is dynamically typed and garbage-collected
+   * it supports multiple programming paradigms including structured, object-oriented and functional programming
+
+2) What is high level programming language?
+A) * High level languages are programming languages which are used fo writing programs or software which could be understood by the humans and computer
+   * high level languages are easier to understand for humans because it uses lot of symbols letters phrases to represent logic and instructions ina program
+   * it contains high level of abstraction compared to low level languages 
+
+3) What is Dynamically typed language?
+A) * These are the languages that so not require any pre-defined data type for any variable as it is interpreted at runtime by the machine itself
+   * In these languages, interpreters assign the data type to a variable at runtime depending on its value
+   * We don't even need to specify the type of variable that a fuction is returning or accepting in these languages
+   * Javascript, Python, Ruby, Perl, etc are examples of dynamically typed languages
+
+4) What is variable?
+A) * Variables are used to store information to be referenced and manipulated in a computer program
+   * They also provide a way of labeling data with a descriptve name, so our programs can be understood more clearly by the reader and ourselves
+   * It is helpful to think of variables as containers that hold information
+   * Their sole purpose is to label and store data in memory
+   * This data can then be used throughout your program
+
+5) What is type conversion?
+A) The direct conversion of object of one data type to another data type is known as type conversion
